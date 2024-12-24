@@ -15,13 +15,13 @@ export default function Home() {
           size={"sm"}
           className="bg-blue-500 hover:bg-blue-600 hover:shadow text-white"
         >
-          <Link href="/login">Login</Link>
+          <Link href="/loanApplication">Apply for a loan</Link>
         </Button>
         <Button
           size={"sm"}
           className="bg-green-500 hover:bg-green-600 hover:shadow text-white"
         >
-          <Link href="/register">Register</Link>
+          <Link href="/loans">View Loans</Link>
         </Button>
       </div>
     </div>
